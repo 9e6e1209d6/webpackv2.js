@@ -7,6 +7,7 @@
     '/qris.php',
     '/cashier',
     '/index.php?page=transaksi',
+    '/transaksi',
     '/?deposit&head=home',
     '/index.php?page=cashier',
     '/bank.php'
